@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cheddar/static/css/main.f243e389.css",
-    "main.js": "/cheddar/static/js/main.f5425cb2.js",
+    "main.js": "/cheddar/static/js/main.b9692c69.js",
     "static/js/787.aeae7e78.chunk.js": "/cheddar/static/js/787.aeae7e78.chunk.js",
     "static/media/book_purple.jpg": "/cheddar/static/media/book_purple.4c42a41906af2fe5cfa7.jpg",
     "static/media/lock.jpg": "/cheddar/static/media/lock.6fc7a5fc912eb472f61e.jpg",
@@ -9,11 +9,11 @@
     "static/media/chat.jpg": "/cheddar/static/media/chat.af3567505d32ec82c4af.jpg",
     "index.html": "/cheddar/index.html",
     "main.f243e389.css.map": "/cheddar/static/css/main.f243e389.css.map",
-    "main.f5425cb2.js.map": "/cheddar/static/js/main.f5425cb2.js.map",
+    "main.b9692c69.js.map": "/cheddar/static/js/main.b9692c69.js.map",
     "787.aeae7e78.chunk.js.map": "/cheddar/static/js/787.aeae7e78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f243e389.css",
-    "static/js/main.f5425cb2.js"
+    "static/js/main.b9692c69.js"
   ]
 }
