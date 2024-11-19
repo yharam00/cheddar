@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cheddar_on_mindfuldiary/static/css/main.f243e389.css",
-    "main.js": "/cheddar_on_mindfuldiary/static/js/main.6579a022.js",
-    "static/js/787.aeae7e78.chunk.js": "/cheddar_on_mindfuldiary/static/js/787.aeae7e78.chunk.js",
-    "static/media/book_purple.jpg": "/cheddar_on_mindfuldiary/static/media/book_purple.4c42a41906af2fe5cfa7.jpg",
-    "static/media/lock.jpg": "/cheddar_on_mindfuldiary/static/media/lock.6fc7a5fc912eb472f61e.jpg",
-    "static/media/book_blue.jpg": "/cheddar_on_mindfuldiary/static/media/book_blue.3c0c5017523643103dfe.jpg",
-    "static/media/chat.jpg": "/cheddar_on_mindfuldiary/static/media/chat.af3567505d32ec82c4af.jpg",
-    "index.html": "/cheddar_on_mindfuldiary/index.html",
-    "main.f243e389.css.map": "/cheddar_on_mindfuldiary/static/css/main.f243e389.css.map",
-    "main.6579a022.js.map": "/cheddar_on_mindfuldiary/static/js/main.6579a022.js.map",
-    "787.aeae7e78.chunk.js.map": "/cheddar_on_mindfuldiary/static/js/787.aeae7e78.chunk.js.map"
+    "main.css": "/cheddar/static/css/main.f243e389.css",
+    "main.js": "/cheddar/static/js/main.f5425cb2.js",
+    "static/js/787.aeae7e78.chunk.js": "/cheddar/static/js/787.aeae7e78.chunk.js",
+    "static/media/book_purple.jpg": "/cheddar/static/media/book_purple.4c42a41906af2fe5cfa7.jpg",
+    "static/media/lock.jpg": "/cheddar/static/media/lock.6fc7a5fc912eb472f61e.jpg",
+    "static/media/book_blue.jpg": "/cheddar/static/media/book_blue.3c0c5017523643103dfe.jpg",
+    "static/media/chat.jpg": "/cheddar/static/media/chat.af3567505d32ec82c4af.jpg",
+    "index.html": "/cheddar/index.html",
+    "main.f243e389.css.map": "/cheddar/static/css/main.f243e389.css.map",
+    "main.f5425cb2.js.map": "/cheddar/static/js/main.f5425cb2.js.map",
+    "787.aeae7e78.chunk.js.map": "/cheddar/static/js/787.aeae7e78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f243e389.css",
-    "static/js/main.6579a022.js"
+    "static/js/main.f5425cb2.js"
   ]
 }
